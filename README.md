@@ -11,4 +11,5 @@ We have also fulfilled two advanced requirements:
 One is that we implemented GUIs for various pages, such as login page, registration page, server page, etc.
 Second, we specify the password policy. We specify that: Password must be a combination of 8 or more digits containing uppercase letters, lowercase letters, numbers, special symbols ( characters other than letters, numbers, underscores, Chinese characters). And the password entered twice during registration must be the same. If there is a problem, an error message will pop up and the user will be asked to re-enter the registration information.
 
-We store the user's username and password in the pgSQL database, and operations such as inserting and querying new users use SQL statements
+We store the user's username and password in the pgSQL database, and operations such as inserting and querying new users use SQL statements.
+The files we upload contain the database and java code files.
